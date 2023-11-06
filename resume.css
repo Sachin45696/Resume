@@ -1,0 +1,195 @@
+
+
+#cv-reqform{
+    margin: 0;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.row{
+    margin: 0;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+/*second template*/
+#cv-template{
+    display: none;
+    
+}
+
+
+.nav-para{
+    padding-top: 5px;
+    padding-left: 35%;
+    padding-right: 25%;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    color: white;
+    background-color: dodgerblue;
+    
+}
+.slide{
+    padding-left: 22%;
+    padding-top: 0.3px;
+    font-family: Helvetica;
+   
+}
+
+.first{
+    background-color: rgb(109, 157, 141);
+    display: flex;
+    justify-content: center;
+      
+}
+
+
+.a1{
+   
+    padding-top:20px;
+    padding-left:5%;
+   margin-top: 20px;
+   
+}
+
+.b1{
+
+    padding-top: 20px;
+    padding-left:55%;
+    padding-right:25px;
+       
+}
+
+.label1{
+    margin-top: 4px;
+    padding-left: 50px;
+    color:  white;
+    
+}
+.inpu1{
+    padding-top: 2px;
+    margin-top: 4px;
+    width: 550px;
+    padding-left: 50px;
+    border-radius: 2px solid black;
+    margin-left: 50PX;
+    
+}
+
+.label2{
+    padding-top: 20px;
+    color:  white;
+    padding-left: 36%;
+   
+}
+.label3{
+    color:  white;
+    padding-left: 44%; 
+    padding-top: 10px; 
+    
+}
+.label4{
+    color:  white;
+    padding-left: 44%; 
+    
+}
+.label5{
+    color:  white;
+    padding-left: 37%;
+    
+}
+.label6{
+    color:  white;
+    padding-left: 36%;
+     
+}
+.Linkedln{
+    padding-left: 50px;
+    color:  white; 
+    display: none;
+}
+
+.edu{
+    padding-top: 10px;
+    padding-left:15%;
+    padding-right:25px;
+    
+}
+.label1{
+     padding-top: 0px;
+    
+}
+
+.button-button{
+    padding-left: 73%;
+   
+}
+#linktemplate{
+    color: blue;
+    
+}
+#gittemplate{
+    color: blue;
+      
+}
+.button{
+   
+ background-color: sandybrown;
+    height: 50px;
+    width: 80px;
+    color: white;
+     
+}
+
+.printbutton{
+    padding-top: 20px;
+    padding-left: 50%;
+    color: white;
+}
+
+/*------------------------------------------------------------------------------------*/
+/*template*/
+.col-md-4{
+    padding-left: 50px;
+}
+ 
+
+.image{
+   padding-left: 20px;
+
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.profilebackground{
+    background-color: aquamarine;
+}
+
+.card-header{
+    background-color: aquamarine;
+}
+
+.btn-button{
+    background-color: aquamarine;
+}
+.btn-Edit{
+    background-color: aquamarine;
+
+}
+.working{
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+.Education{
+    padding-top: 50px;
+    padding-left: 30px;
+
+}
+.print{
+    width: 110px;
+}
+/* forsepating pages */
+.sepratewebpages{
+    margin-top: 20px;
+}
